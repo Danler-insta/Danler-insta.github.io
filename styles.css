@@ -202,13 +202,13 @@ h1.name {
 }
 
 .card {
-	width: 47.9%;
+	width: 38.9%;
 	height: 300;
 	background-color: #EEF0F7;
 	display: inline-block;
 	margin: 7px 5px;
 	vertical-align: top;
-	border-radius: 10px;
+	border-radius: 30px;
 	text-align: justify;
 	padding-top: 5px
 }
