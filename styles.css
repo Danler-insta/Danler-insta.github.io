@@ -202,15 +202,15 @@ h1.name {
 }
 
 .card {
-	width: 80%;
-	height: 500px;
+	width: 47.9%;
+	height: 300;
 	background-color: #EEF0F7;
 	display: inline-block;
 	margin: 7px 5px;
 	vertical-align: top;
 	border-radius: 10px;
 	text-align: center;
-	padding-top: 50px
+	padding-top: 20px
 }
 
 .card-active , .card:hover{
