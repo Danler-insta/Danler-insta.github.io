@@ -40,7 +40,7 @@ footer, header, hgroup, menu, nav, section {
 a{
 	text-decoration: none;
 	text-transform: none;
-	color: #4A90E2;
+	color: #4ae2e2;
 }
 
 body {
@@ -49,7 +49,15 @@ body {
 	text-rendering : optimizeLegibility;
 	-webkit-font-smoothing : antialiased;
 	font-size: 19px;
-	background-color: #FEFEFE;
+	background-color:#ad99ff;
+	background-image:
+	radial-gradient(at 24% 69%, hsla(187,95%,67%,1) 0px, transparent 50%),
+	radial-gradient(at 62% 12%, hsla(321,85%,72%,1) 0px, transparent 50%),
+	radial-gradient(at 58% 60%, hsla(64,91%,78%,1) 0px, transparent 50%),
+	radial-gradient(at 77% 62%, hsla(237,61%,66%,1) 0px, transparent 50%),
+	radial-gradient(at 5% 24%, hsla(35,97%,71%,1) 0px, transparent 50%),
+	radial-gradient(at 96% 19%, hsla(298,62%,62%,1) 0px, transparent 50%),
+	radial-gradient(at 78% 17%, hsla(241,70%,63%,1) 0px, transparent 50%);
 	color: #04143A;
 }
 ol, ul {
@@ -69,7 +77,7 @@ table {
 }
 
 p {
-	color: #15171a;
+	color: ##1a1519;
 	font-size: 17;
 	line-height: 31px;
 }
